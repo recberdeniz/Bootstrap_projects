@@ -1,0 +1,20 @@
+html body{
+	background-color: #E9ECEF;
+}
+#jumbo{
+	text-align: center;
+}
+#brands{
+	text-align: center;
+}
+#footer{
+	text-align: center;
+}
+.card:hover::before{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card:hover{
+	color: #930e0e;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	text-shadow: 0 0 5px #ff141414;
+}
