@@ -1,0 +1,39 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow {
+    background-color: #FFC017;
+}
+.border-bottom-dark {
+    border-bottom: solid 1px #242424;
+}
+.nav-button-radius {
+    border-radius: 99em;
+}
+.fq {
+    color: #F2F2F2;
+}
+.fp {
+    letter-spacing: -0.014em;
+}
+.fo {
+    line-height: 38px;
+}
+.fn {
+    font-size: 32px;
+}
+.fm{
+    font-weight: 500;
+}
+.by {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.my-fs {
+    font-size: small;
+}
+.border-top-light {
+    border-top: solid 1px #F2F2F2;
+}
+.float-right {
+    float: right;
+}
